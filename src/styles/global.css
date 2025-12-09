@@ -79,10 +79,14 @@ b {
 	font-weight: 700;
 }
 a {
-	color: var(--accent);
+	color: rgb(var(--black));
+	text-decoration: none;
+	box-shadow: inset 0 -0.1em 0 rgba(var(--gray-light), 0.7);
+	transition: color 120ms ease, box-shadow 120ms ease;
 }
 a:hover {
 	color: var(--accent);
+	box-shadow: inset 0 -0.2em 0 rgba(var(--gray-light), 1);
 }
 p {
 	margin-bottom: 1em;
