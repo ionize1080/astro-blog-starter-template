@@ -2,7 +2,7 @@
 title: "First Blog"
 description: "Test."
 pubDate: "Dec 08 2025"
-heroImage: ""
+heroImage: "/image-1.png"
 ---
 
 Hello
