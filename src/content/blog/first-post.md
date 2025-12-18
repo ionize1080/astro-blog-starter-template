@@ -2,7 +2,7 @@
 title: "Mac命令行操作合集"
 description: "速查手册"
 pubDate: "Dec 09 2025"
-heroImage: "/image-1.png"
+heroImage: "/image-2.png"
 ---
 
 > 说明：本手册以 **zsh + Terminal** 为默认环境（macOS Catalina 及之后版本默认 shell 为 zsh）。
