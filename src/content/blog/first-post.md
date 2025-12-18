@@ -2,10 +2,8 @@
 title: "Mac命令行操作合集"
 description: "速查手册"
 pubDate: "Dec 09 2025"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/image-1.png"
 ---
-
-# Mac 命令行操作大全（速查手册）
 
 > 说明：本手册以 **zsh + Terminal** 为默认环境（macOS Catalina 及之后版本默认 shell 为 zsh）。
 
